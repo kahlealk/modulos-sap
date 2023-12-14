@@ -1,6 +1,8 @@
-# BOAS VINDAS 
+# SAP e seus Módulos 
 
-Este repositório foi criado com o intuito de oferecer uma fonte centralizada de informações e tutoriais passo a passo para diversos módulos do SAP. Se você já utiliza o SAP ou está interessado em aprender mais sobre os processos empresariais facilitados por essa plataforma, você está no lugar certo!
+Este repositório foi criado com o intuito de oferecer uma fonte centralizada de informações e tutoriais passo a passo para diversos módulos do SAP. 
+
+Se você já utiliza o SAP ou está interessado em aprender mais sobre os processos empresariais facilitados por essa plataforma, você está no lugar certo!
 
 Cada pasta neste repositório representa um módulo específico do SAP.  O conteúdo é desenvolvido para ser acessível a usuários de diferentes níveis de experiência, desde iniciantes até profissionais experientes.
 
