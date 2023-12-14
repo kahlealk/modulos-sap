@@ -15,16 +15,16 @@ Esses departamentos dentro do SAP chamamos de **módulos**
  O SAP oferece uma variedade de módulos que abrangem diferentes áreas de negócios e processos organizacionais. Cada módulo é projetado para atender a necessidades específicas em um departamento. Alguns dos principais módulos do SAP são:
 
  ### SAP FI (Financial Accounting)
-    - Gerenciamento financeiro, contabilidade geral, contabilidade de contas a pagar, contabilidade de contas a receber, entre outros
+ - Gerenciamento financeiro, contabilidade geral, contabilidade de contas a pagar, contabilidade de contas a receber, entre outros
 
 ### SAP MM (Materials Management)
-    - Gerenciamento de materiais, compras, gestão de estoque, recebimento de mercadorias.
+- Gerenciamento de materiais, compras, gestão de estoque, recebimento de mercadorias.
 
 ### SAP SD (Sales and Distribution)
-    - Vendas, distribuição, gestão de pedidos, faturamento.
+- Vendas, distribuição, gestão de pedidos, faturamento.
 
 ### SAP PP (Production Planning)
-    - Planejamento de produção, controle de produção, gestão de ordens de produção.
+- Planejamento de produção, controle de produção, gestão de ordens de produção.
 
 
 
