@@ -4,4 +4,4 @@ Esta pasta é dedicada ao módulo SAP SD, aqui você encontrará guias detalhado
 
 ## Conteúdo 
 
-[Estrutura organizacional](./estrutura-organizacional/)
+[Estrutura organizacional](./estrutura-organizacional//)
