@@ -30,7 +30,7 @@ Bem-vindo ao Projeto Exemplo! Este é um espaço para explorar várias formataç
 
 ## Links
 
-[GitHub](https://github.com)
+[GitHub](./sap-sd/)
 
 ## Imagens
 
