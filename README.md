@@ -1,6 +1,6 @@
 # BOAS VINDAS 
 
-Este repósitorio foi criado com o intuito de explicar um pouco sobre o universo SAP e seus diversos módulos. Perfeito para você que está em busca de ingressar nessa área e quer entender o que é o SAP e o que ele abrange, aqui você consegue tirar muitas dúvidas, aprender processos e ainda assim escolher a sua área dos sonhos.
+Este repositório foi criado com o intuito de explicar um pouco sobre o universo SAP e seus diversos módulos. Perfeito para você que está em busca de ingressar nessa área e quer entender o que é o SAP e o que ele abrange, aqui você consegue tirar muitas dúvidas, aprender processos e ainda assim escolher a sua área dos sonhos.
 
 E você que já faz parte desse universo e quer entender melhor outros módulos, esse repositório também é pra você, então navega um pouco por aqui. 
 
