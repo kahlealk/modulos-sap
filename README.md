@@ -22,6 +22,7 @@ Esses departamentos dentro do SAP chamamos de **módulos**
 
 ### SAP SD (Sales and Distribution)
 - Vendas, distribuição, gestão de pedidos, faturamento.
+    - Aqui você encontra conteúdos mais específicos do SD [MóduloSD](./sap-sd/)
 
 ### SAP PP (Production Planning)
 - Planejamento de produção, controle de produção, gestão de ordens de produção.
