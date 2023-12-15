@@ -2,4 +2,8 @@
 
 Aqui apresento o passo a passo para algumas customizações da estrutura organizacional no SAP SD.
 
+# Conteúdo
+
 [Criar um Local de negocio](./criar-local-de-negocio.md)
+[Atribuir local de negócio ao centro](./atribuir-local-de-negocio-ao-centro.md)
+[Criar organização de vendas](./criar-organizacao-vendas.md)
