@@ -4,8 +4,6 @@ Aqui apresento o passo a passo para algumas customizações da estrutura organiz
 
 # Conteúdo
 
-[Criar um Local de negocio](./criar-local-de-negocio.md)
-
-[Atribuir local de negócio ao centro](./atribuir-local-de-negocio-ao-centro.md)
-
-[Criar organização de vendas](./criar-organizacao-vendas.md)
+[Criar um Local de negocio](./criar-local-de-negocio.md)   
+[Atribuir local de negócio ao centro](./atribuir-local-de-negocio-ao-centro.md)   
+[Criar organização de vendas](./criar-organizacao-vendas.md)   
