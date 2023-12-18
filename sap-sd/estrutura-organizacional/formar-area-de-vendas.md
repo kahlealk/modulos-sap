@@ -5,7 +5,7 @@
 
     - *Estrutura do empreendimento* **>** *Atribuição* **>** *Vendas e distribuição* **>** *Formar área de vendas*;
 
-3. CLica em *Entradas novas*; 
+3. Clica em *Entradas novas*; 
 4. Preenche os campos mandatórios e salva na request.
 
 
