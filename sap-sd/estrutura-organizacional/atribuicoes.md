@@ -30,7 +30,18 @@
 3. Procura seu setor de atividade e associa a sua organização de vendas; 
 4. Salva na request.
 
-### Print da SPRO
+## Atribuir organização de vendas ao canal de distribuição e ao centro
 
-![Atribuições para formar área de vendas](atribui%C3%A7%C3%B5es.jpg)
+1. Acesse a transação **SPRO**;
+2. Siga o caminho abaixo:
+
+    - *Estrutura do empreendimento* **>** *Atribuição* **>** *Vendas e distribuição* **>** *organização de vendas - canal de distribuição - centro*;
+
+3. Clica em *Entradas novas*;
+4. Salva na request.
+
+
+### Print da SPRO
+  
+![Atribuições para formar área de vendas](image.png)
 
