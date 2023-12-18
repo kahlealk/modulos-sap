@@ -40,8 +40,14 @@
 3. Clica em "*Entradas novas*" e seleciona as entradas;
 4. Salva na request.
 
+## Atribuir local de expedição ao centro
 
-### Print da SPRO
-  
-![Atribuições para formar área de vendas](image.png)
+1. Acesse a transação **SPRO**;
+2. Siga o caminho abaixo:
+
+    - *Estrutura do empreendimento* **>** *Atribuição* **>** *Logistics Execution* **>** *Atribuir local de expedição - centro*;
+
+3. Clica em "*Entradas novas*" e seleciona as entradas;
+4. Salva na request.
+
 
