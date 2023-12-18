@@ -9,7 +9,7 @@
 
 
 
-## Transações e Tabelas
+## Transações
 
 - **XD01:** Criar cliente
 - **XD02:** Editar o cadastro 
