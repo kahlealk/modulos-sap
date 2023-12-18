@@ -17,7 +17,7 @@
 
     - *Estrutura do empreendimento* **>** *Atribuição* **>** *Vendas e distribuição* **>** *Atribuir canal de distribuição - organização de vendas*;
 
-3. Clica em *Entradas novas* e seleciona as entradas; 
+3. Clica em "*Entradas novas*" e seleciona as entradas; 
 4. Salva na request.
 
 ## Atribuir setor de atividade a organização de vendas
@@ -27,7 +27,7 @@
 
     - *Estrutura do empreendimento* **>** *Atribuição* **>** *Vendas e distribuição* **>** *Atribuir setor de atividade - organização de vendas*;
 
-3. Clica em *Entradas novas* e seleciona as entradas; 
+3. Clica em "*Entradas novas*" e seleciona as entradas; 
 4. Salva na request.
 
 ## Atribuir organização de vendas ao canal de distribuição e ao centro
@@ -37,7 +37,7 @@
 
     - *Estrutura do empreendimento* **>** *Atribuição* **>** *Vendas e distribuição* **>** *organização de vendas - canal de distribuição - centro*;
 
-3. Clica em *Entradas novas* e seleciona as entradas;
+3. Clica em "*Entradas novas*" e seleciona as entradas;
 4. Salva na request.
 
 
