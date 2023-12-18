@@ -19,3 +19,6 @@
 
 3. Procura sua organização de vendas e associa a empresa; 
 4. Salva na request.
+
+![Atribuições para formar área de vendas](atribui%C3%A7%C3%B5es.jpg)
+
