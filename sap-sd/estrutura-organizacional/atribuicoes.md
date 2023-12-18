@@ -55,4 +55,15 @@
 4. Seleciona o seu local de expedição e salva na request.
 
 
+## Atribuir área de vendas à área de controle de crédito
+
+1. Acesse a transação **SPRO**;
+2. Siga o caminho abaixo:
+
+    - *Estrutura do empreendimento* **>** *Atribuição* **>** *Vendas e distribuição* **>** *Atribuir área de vendas à área de controle de crédito*;
+
+3. Procura sua área de vendas e atribui o controle de crédito;
+4. Salva na request.
+
+
 [Voltar ao menu principal](./README.md)
