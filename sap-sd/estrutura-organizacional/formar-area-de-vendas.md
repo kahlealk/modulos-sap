@@ -9,7 +9,7 @@
 4. Preenche os campos mandatórios e salva na request.
 
 
-**OBS:** Lembrando que um pré requisito para formar a área de vendas são as atribuições, então se quiser verificar o passo a passo delas é só clicar em: [Atribuições da área de vendas](./atribuicoes.md)   
+**OBS:** Lembrando que um pré requisito para formar a área de vendas são as atribuições, então se quiser verificar o passo a passo delas é só clicar em:    [Atribuições da área de vendas](./atribuicoes.md)   
 
 [Voltar ao menu principal](./README.md)
 
