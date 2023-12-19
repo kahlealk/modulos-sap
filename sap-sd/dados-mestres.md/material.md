@@ -1,6 +1,6 @@
 # Pontos importantes sobre Material
 
-OBS: Cadastro de Material é de MM, porém existem questões dentro do material que sãO estritamente de SD, por isso devemos saber.
+OBS: Cadastro de Material é de MM, porém existem questões dentro do material que são estritamente de SD, por isso devemos saber.
 
 
 ## Transações
