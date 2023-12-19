@@ -1,17 +1,5 @@
 # Pontos importantes sobre Cliente
 
-
-## Definindo grupo de contas
-
-1. Acesse a transação **SPRO**;
-2. Siga o caminho abaixo:
-
-    - *Logística geral* **>** *Parceiro de negócios* **>** *Clientes* **>** *Controle* **>** *Definir grupos de contas e seleção de campos clientes*;
-
-3. Clica em *Entradas novas*; 
-4. Preenche os campos mandatórios e salva na request.
-
-
 ## Transações
 
 - **XD01:** Criar cliente
@@ -26,9 +14,25 @@
 - **KNVV:** Dados do cliente por área de vendas
 
 
+## Definindo grupo de contas
+
+1. Acesse a transação **SPRO**;
+2. Siga o caminho abaixo:
+
+    - *Logística geral* **>** *Parceiro de negócios* **>** *Clientes* **>** *Controle* **>** *Definir grupos de contas e seleção de campos clientes*;
+
+3. Clica em *Entradas novas*; 
+4. Preenche os campos mandatórios e salva na request.
+
+
 ## Para visualizar o grupo de contas do cliente
 
 1. Acesse a transação **XD03**;
 2. Insira o código do cliente;
 3. Na barra de menu, escolha **Suplementos** > **Dados Administrativos**.
+
+
+## Anexos de Imagens 
+
+- ![Criando um cliente com cópia de outro](image.png)   
 
