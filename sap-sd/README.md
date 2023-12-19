@@ -4,7 +4,6 @@ Esta pasta é dedicada ao módulo SAP SD, aqui você encontrará guias detalhado
 
 ## Conteúdo 
 
-[Voltar ao menu principal](./README.md)   
 [Estrutura organizacional](./estrutura-organizacional/)   
 [Dados mestres](./dados-mestres.md/)   
 [Algumas imagens do SAP](./anexos.md/)
