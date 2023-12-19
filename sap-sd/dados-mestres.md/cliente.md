@@ -8,6 +8,8 @@
 
     - *Logística geral* **>** *Parceiro de negócios* **>** *Clientes* **>** *Controle* **>** *Definir grupos de contas e seleção de campos clientes*;
 
+3. Clica em *Entradas novas*; 
+4. Preenche os campos mandatórios e salva na request.
 
 
 ## Transações
