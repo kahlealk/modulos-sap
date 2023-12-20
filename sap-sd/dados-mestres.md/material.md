@@ -5,9 +5,7 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 ## Transações
 
-- **MM01:** Criar o material
-- **MM02:** Editar o material 
-- **MM03:** Visualizar o material 
+
 
 
 ## Tabelas
