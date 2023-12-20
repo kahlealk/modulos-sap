@@ -3,7 +3,7 @@
 
 ## Customizações do Cabeçalho de Documento de Vendas
 
-    1. Caminho na **SPRO** 
+  1. Caminho na **SPRO** 
 
     - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *Cabeçalho de documento de vendas*;
     
