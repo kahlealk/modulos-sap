@@ -3,13 +3,11 @@
 
 ## Customizações do Cabeçalho de Documento de Vendas
 
-  1. Caminho na **SPRO** 
+1. Caminho na **SPRO** 
 
  - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *Cabeçalho de documento de vendas*;
     
- 2. Abaixo um print da SPRO, com as configurações de Documentos de vendas.   
-
-   ![spro](image-1.png)
+ 2. Faz as customizações que desejar.
 
 ## Criar tipo de documento de vendas 
 
@@ -36,11 +34,4 @@
     - **OBS:** Lembrando que antes de atibuir você deve fazer os agrupamentos que estão acima do *Atribuir área de vendas a tipos de documento de vendas*, como na imagem abaixo:   
 
     ![agrupamento](image.png)   
-
-
-    ## Customizações do Cabeçalho de Documento de Vendas
-
-    1. Caminho na **SPRO** 
-
-    - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *Cabeçalho de documento de vendas* **>** *Atribuir área de vendas a tipos de documento de vendas*;
 
