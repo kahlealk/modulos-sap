@@ -28,7 +28,7 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 ![Visões](image-3.png)   
 
-3. Preenche com sua organização de venda e com a do modelo, como na imagem abaixo;   
+3. Preenche sua organização de venda e a do modelo, como na imagem abaixo;   
 
 ![modelo](image-4.png)   
 
