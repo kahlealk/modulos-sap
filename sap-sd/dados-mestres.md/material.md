@@ -34,4 +34,5 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 4. Agora é só salvar, como na imagem abaixo;   
 
-![material ampliado](image-5.png)
+![material ampliado](image-5.png)   
+![ampliado](image-6.png)
