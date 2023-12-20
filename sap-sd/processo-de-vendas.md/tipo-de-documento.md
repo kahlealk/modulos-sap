@@ -7,7 +7,8 @@
 
  - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *Cabeçalho de documento de vendas*;
     
- - Abaixo um print da SPRO, essas são todas as configurações de Documentos de vendas.   
+ 
+ ## Abaixo um print da SPRO, essas são todas as configurações de Documentos de vendas.   
 
    ![spro](image-1.png)
 
