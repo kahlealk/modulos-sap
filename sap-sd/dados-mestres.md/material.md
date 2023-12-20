@@ -14,8 +14,8 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 - **MARA:** Verificar os dados gerais do material
 - **MVKE:** Ver se o material esta criado na organização e no canal
-- **MARC:** Ver se o material esta criado no centro 
-- **MARD:** Para qual combinação está o material , deposito e centro
+- **MARC:** Ver se o material esta criado para meu centro 
+- **MARD:** Para qual combinação está o material: depósito e centro
 
 
 
