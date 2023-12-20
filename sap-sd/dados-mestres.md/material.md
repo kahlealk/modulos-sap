@@ -30,4 +30,8 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 3. Preenche com sua organização de venda e com a do modelo, como na imagem abaixo;   
 
-![modelo](image-4.png)
+![modelo](image-4.png)   
+
+4. Agora é só salvar, como na imagem abaixo;   
+
+![material ampliado](image-5.png)
