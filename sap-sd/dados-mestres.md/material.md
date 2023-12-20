@@ -18,4 +18,16 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 - **MARD:** Para qual combinação está o material: depósito e centro
 
 
+## Expandindo um material já criado para nossa organização de vendas
 
+1. Acesse a transação **MM01** e preenche os campos, como na imagem abaixo;   
+
+![MM01](image-2.png)   
+
+2. Seleciona todas as visões, como na imagem abaixo;   
+
+![Visões](image-3.png)   
+
+3. Preenche com sua organização de venda e com a do modelo, como na imagem abaixo;   
+
+![modelo](image-4.png)
