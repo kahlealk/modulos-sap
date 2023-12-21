@@ -38,6 +38,7 @@
 - Expandindo um cliente  
 
 ![Expansão do cliente](image.png)   
+**OBS:** É só preencher o **modelo** que o cliente será copiado
 
 - Visualização do grupo de contas de um cliente   
 
