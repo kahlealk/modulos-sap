@@ -8,7 +8,9 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 - **MM01:** Criar o material
 - **MM02:** Editar o material 
 - **MM03:** Visualizar o material
-- **MMBE:** Visualizar o status de estoque de materiais em um depósito específico 
+- **MMBE:** Visualizar o estoque de materiais em um depósito específico
+- **MB1C:** Registrar entrada de mercadoria, "561" é o movimento de entrada de estoque
+- **MMPV:** Abrir registro para movimentação de mercadoria
 
 
 ## Tabelas
@@ -21,22 +23,20 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 ## Expandindo um material já criado para nossa organização de vendas
 
-1. Acesse a transação **MM01** e preenche os campos, como na imagem abaixo;   
+1. Acesse a transação **MM01** e preenche os campos mandatórios;   
 
-![MM01](image-2.png)   
-
-2. Seleciona todas as visões, como na imagem abaixo;   
-
-![Visões](image-3.png)   
+2. Seleciona todas as visões, como na imagem abaixo;     
 
 3. Preenche sua organização de venda e a do modelo, como na imagem abaixo;   
 
 ![modelo](image-4.png)   
 
-4. Agora é só salvar, como na imagem abaixo;   
+4. Agora é só salvar que aparecerá a mensagem: *Material é criado*, significa que foi ampliado.
 
-![material ampliado](image-5.png)   
 
-5. Aparecerá no fim da página essa mensagem.   
+### Anexos de imagens
 
-![ampliado](image-6.png)
+
+- Print da transação **MMPV**, uma abertura de registro para movimentação de mercadoria.   
+
+![abertura de registro](image-7.png)
