@@ -38,5 +38,6 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 
 - Print da transação **MMPV**, uma abertura de registro para movimentação de mercadoria.   
+OBS: É uma transação de MM, mas SD precisa conhecer também.   
 
 ![abertura de registro](image-7.png)
