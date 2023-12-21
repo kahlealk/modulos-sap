@@ -35,10 +35,10 @@
 ## Alguns anexos de Imagens 
 
 
-- Expandindo um cliente  
+- Expandindo um cliente
+**OBS:** É só preencher o **modelo** que o cliente será copiado   
 
 ![Expansão do cliente](image.png)   
-**OBS:** É só preencher o **modelo** que o cliente será copiado
 
 - Visualização do grupo de contas de um cliente   
 
