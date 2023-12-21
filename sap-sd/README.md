@@ -4,5 +4,6 @@ Esta pasta é dedicada ao módulo SAP SD, aqui você encontrará guias detalhado
 
 ## Conteúdo 
 
-[Estrutura organizacional](./estrutura-organizacional/)   
 [Dados mestres](./dados-mestres.md/)   
+[Estrutura organizacional](./estrutura-organizacional/)   
+[Processo de vendas](./processo-de-vendas.md/)   
