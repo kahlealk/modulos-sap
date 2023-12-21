@@ -35,9 +35,9 @@
 ## Alguns anexos de Imagens 
 
 
-- Criando um cliente com cópia de outro   
+- Expandindo um cliente  
 
-![Criando um cliente com cópia de outro](image.png)   
+![Expansão do cliente](image.png)   
 
 - Visualização do grupo de contas de um cliente   
 
