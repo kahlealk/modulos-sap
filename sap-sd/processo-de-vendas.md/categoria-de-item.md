@@ -33,5 +33,3 @@
 
 ![categ de item](image-2.png)   
 
-
-## 

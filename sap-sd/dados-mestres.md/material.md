@@ -7,7 +7,8 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 
 - **MM01:** Criar o material
 - **MM02:** Editar o material 
-- **MM03:** Visualizar o material 
+- **MM03:** Visualizar o material
+- **MMBE:** Visualizar o status de estoque de materiais em um depósito específico 
 
 
 ## Tabelas
