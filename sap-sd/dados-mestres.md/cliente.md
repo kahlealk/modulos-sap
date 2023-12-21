@@ -36,7 +36,7 @@
 
 
 - Expandindo um cliente   
-**OBS:** É só preencher o **modelo** que o cliente será copiado   
+**OBS:** É só preencher a parte de **modelo** lá em baixo, que o cliente será copiado   
 
 ![Expansão do cliente](image.png)   
 
