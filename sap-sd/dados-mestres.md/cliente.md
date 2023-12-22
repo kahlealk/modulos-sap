@@ -1,5 +1,6 @@
 # Pontos importantes sobre Cliente
 
+
 ## Transações
 
 - **XD01:** Criar cliente
@@ -36,7 +37,7 @@
 
 
 - Expandindo um cliente   
-**OBS:** É só preencher a parte de **modelo** lá em baixo, que o cliente será copiado   
+**OBS:** É só preencher a parte de **modelo** lá em baixo, que o cliente será expandido  
 
 ![expandindo cliente](image.png)  
 
