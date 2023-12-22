@@ -16,7 +16,7 @@
 
     - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *Cabeçalho de documento de vendas* **>** *Definir tipos de doc.vendas*;
 
-3. Procura pela ORB, tipo de ordem mais utilizada, e CÓPIA;
+3. Procura pela ORB, que é o tipo de ordem mais utilizada, e CÓPIA;
 4. Preenche os campos mandatórios e salva na request.
 
 
