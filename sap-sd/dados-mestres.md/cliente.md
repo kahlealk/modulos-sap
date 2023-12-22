@@ -19,7 +19,7 @@
 1. Acesse a transação **SPRO**;
 2. Siga o caminho abaixo:
 
-- *Logística geral* **>** *Parceiro de negócios* **>** *Clientes* **>** *Controle* **>** *Definir grupos de contas e seleção de campos clientes*;
+    - *Logística geral* **>** *Parceiro de negócios* **>** *Clientes* **>** *Controle* **>** *Definir grupos de contas e seleção de campos clientes*;
 
 3. Clica em *Entradas novas*; 
 4. Preenche os campos mandatórios e salva na request.
