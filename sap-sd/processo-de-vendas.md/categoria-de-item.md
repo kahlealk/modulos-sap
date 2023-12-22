@@ -15,7 +15,7 @@
 
 # Atribuindo categorias de item
 
-1. 1. Acesse a transação **SPRO**;
+1. Acesse a transação **SPRO**;
 2. Siga o caminho abaixo:
 
     - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *item do documento de vendas*;

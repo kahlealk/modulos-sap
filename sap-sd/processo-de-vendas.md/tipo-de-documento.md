@@ -5,7 +5,7 @@
 
 1. Caminho na **SPRO** 
 
- - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *Cabeçalho de documento de vendas*;
+    - *Venda e distribuição* **>** *Venda* **>** *Documentos de vendas* **>** *Cabeçalho de documento de vendas*;
     
  2. Faz as customizações que desejar.
 
