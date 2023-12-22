@@ -15,7 +15,7 @@ OBS: É mandatório o local de expedição e a ordem de venda para criação da 
 
 - **LIKP:** Cabeçalho de remessa
 - **LIPS:** Itens de remessa
- 
+
 
 ## Criando remessa dentro da Ordem de Venda
 
@@ -27,6 +27,17 @@ OBS: É mandatório o local de expedição e a ordem de venda para criação da 
 
 ##  Criando tipo de remessa
 
+1. Acesse a transação **SPRO**;
+2. Siga o caminho abaixo:
+
+    - *Logistics execution* **>** *Expedição* **>** *Fornecimentos* **>** *Definir tipos de remessa*;
+
+3. Procura o tipo de remessa standard, que é o *LF* e CÓPIA;
+5. Preenche os campos mandatórios e salva na request.
+
+OBS: Na imagem abaixo, em vermelho, está marcado o tipo de categoria de documento de SD, se atentar a essa categoria, pois se for entrega ou devolução ela deve mudar de acordo com a finalidade da remessa.   
+
+![categoria de doc remessa](image-7.png)
 
 
 ## Categoria de divisão de remessa
