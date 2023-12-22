@@ -28,7 +28,7 @@ OBS: **MMBE:** e **MB1C:** ficaram obsoletas, no S4 é tudo pela **MIGO**
 
 1. Acesse a transação **MM01** e preenche os campos mandatórios;   
 
-2. Seleciona todas as visões, como na imagem abaixo;     
+2. Seleciona todas as visões;     
 
 3. Preenche sua organização de venda e a do modelo, como na imagem abaixo;   
 
