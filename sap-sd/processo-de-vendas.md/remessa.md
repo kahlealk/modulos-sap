@@ -1,4 +1,28 @@
-# Categoria de divisão de remessa
+# Remessa
+
+OBS: A criação da remessa pode estar sujeita à *Verificação de disponibilidade (ATP)*
+
+## Transações 
+
+- **VL01N:** Criar remessa
+- **VL02N:** Modifica remessa
+- **VL03N:** Visualiza a remessa
+
+OBS: É mandatório o local de expedição e a ordem de venda para criação da remessa 
+
+## Criando remessa dentro da Ordem de Venda
+
+1. Acessa a transação **VA02**;
+2. Pesquisa sua ordem de venda;
+3. Depois segue o caminho do print abaixo.   
+
+![criando remessa](image-6.png)   
+
+##  Criando tipo de remessa
+
+
+
+## Categoria de divisão de remessa
 
 1. Acesse a transação **SPRO**;
 2. Siga o caminho abaixo:
@@ -10,7 +34,7 @@
 5. Preenche os campos mandatórios e salva na request.
 
 
-# Atribuir  categorias de divisão de remessa
+## Atribuir  categorias de divisão de remessa
 
 1. Acesse a transação **SPRO**;
 2. Siga o caminho abaixo:
