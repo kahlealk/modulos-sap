@@ -26,21 +26,16 @@
 4. Preenche os campos mandatórios e salva na request.
 
 
-## Para visualizar o grupo de contas do cliente
-
-1. Acesse a transação **XD03**;
-2. Insira o código do cliente;
-3. Na barra de menu, escolha **Suplementos** > **Dados Administrativos**.
-
-
-## Alguns anexos de Imagens 
-
-
-- Expandindo um cliente   
+## Expandindo um cliente   
 **OBS:** É só preencher a parte de **modelo** lá em baixo, que o cliente será expandido  
 
 ![expandindo cliente](image.png)  
 
-- Visualização do grupo de contas de um cliente   
+
+## Para visualizar o grupo de contas do cliente
+
+1. Acesse a transação **XD03**;
+2. Insira o código do cliente;
+3. Na barra de menu, escolha **Suplementos** > **Dados Administrativos**.   
 
 ![grupo de contas](image-1.png)

@@ -40,6 +40,8 @@ OBS: Na imagem abaixo, em vermelho, está marcado o tipo de categoria de documen
 ![categoria de doc remessa](image-7.png)
 
 
+
+
 ## Categoria de divisão de remessa
 
 1. Acesse a transação **SPRO**;
