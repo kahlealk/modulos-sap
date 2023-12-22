@@ -12,7 +12,7 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 - **MB1C:** Registrar entrada e saída de mercadoria    
 OBS: "561" é o movimento de entrada de estoque e "562" é o movimento de retirada do estoque
 - **MIGO:** Transação no S4/HANNA para registro de mercadoria   
-OBS: **MMBE:** e **MB1C:** ficaram obsoletas
+OBS: **MMBE:** e **MB1C:** ficaram obsoletas, no S4 é tudo pela **MIGO**
 - **MMPV:** Abrir registro para movimentação de mercadoria
 
 
