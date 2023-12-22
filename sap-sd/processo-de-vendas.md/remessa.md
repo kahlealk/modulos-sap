@@ -10,6 +10,13 @@ OBS: A criação da remessa pode estar sujeita à *Verificação de disponibilid
 
 OBS: É mandatório o local de expedição e a ordem de venda para criação da remessa 
 
+
+## Tabelas
+
+- **LIKP:** Cabeçalho de remessa
+- **LIPS:** Itens de remessa
+ 
+
 ## Criando remessa dentro da Ordem de Venda
 
 1. Acessa a transação **VA02**;
