@@ -9,7 +9,10 @@ OBS: Cadastro de Material é de MM, porém existem questões dentro do material 
 - **MM02:** Editar o material 
 - **MM03:** Visualizar o material
 - **MMBE:** Visualizar o estoque de materiais em um depósito específico
-- **MB1C:** Registrar entrada de mercadoria, "561" é o movimento de entrada de estoque
+- **MB1C:** Registrar entrada e saída de mercadoria. 
+OBS: "561" é o movimento de entrada de estoque e "562" é o movimento de retirada do estoque
+- **MIGO:** Transação no S4/HANNA para registro de mercadoria
+OBS: **MMBE:** e **MB1C:** ficaram obsoletas
 - **MMPV:** Abrir registro para movimentação de mercadoria
 
 
