@@ -51,7 +51,7 @@ OBS: Na imagem abaixo, em vermelho, está marcado o tipo de categoria de documen
 ## Tabelas de material
 
 - **MKPF:** Cabeçalho de documento de material
-- **MSEG:** Item de documento de material
+- **MSEG:** Item de documento de material e ver também o movimento que foi realizado
 
 
 ## Categoria de divisão de remessa
