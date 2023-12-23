@@ -40,6 +40,10 @@ OBS: Na imagem abaixo, em vermelho, está marcado o tipo de categoria de documen
 ![categoria de doc remessa](image-7.png)
 
 
+## Para fazer a liberação da mercadoria
+
+1. Acessa a transação **VL02N**;
+2. Pesquisa sua remessa e clica em **Registrar SM**
 
 
 ## Categoria de divisão de remessa
