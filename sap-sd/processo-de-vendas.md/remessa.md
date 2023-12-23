@@ -48,6 +48,11 @@ OBS: Na imagem abaixo, em vermelho, está marcado o tipo de categoria de documen
 **Obs:** Toda Saída de mercadoria gera um documento de material, que é o documento de movimentação de estoque 
 - Visualiza na **MB51**, mostra todas as movimentações
 
+## Tabelas de material
+
+- **MKPF:** Cabeçalho de documento de material
+- **MSEG:** Item de documento de material
+
 
 ## Categoria de divisão de remessa
 
