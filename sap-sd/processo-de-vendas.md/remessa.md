@@ -45,6 +45,9 @@ OBS: Na imagem abaixo, em vermelho, está marcado o tipo de categoria de documen
 1. Acessa a transação **VL02N**;
 2. Pesquisa sua remessa e clica em **Registrar SM**
 
+**Obs:** Toda Saída de mercadoria gera um documento de material, que é o documento de movimentação de estoque 
+- Visualiza na **MB51**, mostra todas as movimentações
+
 
 ## Categoria de divisão de remessa
 
