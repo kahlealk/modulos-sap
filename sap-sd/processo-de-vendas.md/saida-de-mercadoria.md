@@ -13,7 +13,8 @@
 
 1. Acessa a transação VL09;
 2. Preenche com o local de expedição e com o número da remessa e executa;
-3. Seleciona sua remessa e clica em estornar.
+3. Seleciona sua remessa e clica em estornar;
+4. Confirma o estorno.
 
 
 ## Tabelas de material
