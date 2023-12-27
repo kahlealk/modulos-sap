@@ -12,8 +12,8 @@
 ## Estornar o movimento de mercadorias 
 
 1. Acessa a transação VL09;
-2. Preenche com o local de expedição e com o númera da remessa e executa;
-3. Seleciona sua remessa e estorna.
+2. Preenche com o local de expedição e com o número da remessa e executa;
+3. Seleciona sua remessa e clica em estornar.
 
 
 ## Tabelas de material
