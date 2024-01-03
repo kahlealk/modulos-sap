@@ -21,3 +21,18 @@
 2. Clique em *Liberação contábil*, como na imagem abaixo:   
 
 ![liberaçã contabil](image-10.png)   
+
+
+## Fatura 
+
+- Configurações na **SPRO**
+
+1. Acessa a **SPRO**
+2. Siga o caminho abaixo:
+
+    - *Venda e distribuição* **>** *Faturamento* **>** *Documentos de faturamento* **>** * Definir tipo de documento de faturameto*;
+
+3. Clica em *Definir tipo de documento de faturameto*;   
+
+![spro faturamento](image-11.png)
+ 
