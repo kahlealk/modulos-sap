@@ -25,7 +25,7 @@
 
 ## Fatura 
 
-- Configurações na **SPRO**
+- Configurações na **SPRO** em relação a fatura. 
 
 1. Acessa a **SPRO**
 2. Siga o caminho abaixo:
