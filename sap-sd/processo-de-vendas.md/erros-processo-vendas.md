@@ -5,6 +5,6 @@
 
  ![gerando remessa](image-12.png)   
 
-    1. Solução: Possivelmente você já criou uma remessa, entra na transação **VA02** e consulta o fluxo de documentos, como no print abaixo, por isso apareceu o erro acima.   
+- Solução: O erro se dar pelo fato de você já ter criado uma remessa. Deve entrar na transação **VA02** e consultar o fluxo de documentos, como no print abaixo, a remessa já está criada.   
 
 ![remessa](image-13.png)    
