@@ -11,5 +11,5 @@
 
 **OBS:** Lembrando que um pré requisito para formar a área de vendas são as atribuições, então se quiser verificar o passo a passo delas é só clicar em:    [Atribuições da área de vendas](./atribuicoes.md)   
 
-[Voltar ao menu principal](./README.md)
 
+[Voltar ao menu principal](./README.md)
