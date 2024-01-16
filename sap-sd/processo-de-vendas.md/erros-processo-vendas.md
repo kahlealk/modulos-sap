@@ -9,4 +9,10 @@
 
 ![remessa](image-13.png)    
 
-2. 
+2. Erro ao gerar a remessa   
+
+![gerar remessa](image-14.png)
+
+- Solução: Acesse a transação **MMPV** e faça o Diferimento de períodos mestre de material, preenche os campos marcados e executa   
+
+![deferimento de material](image-15.png)
