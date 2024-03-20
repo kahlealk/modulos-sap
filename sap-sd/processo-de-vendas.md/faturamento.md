@@ -4,6 +4,10 @@
 - **VF02:** Modifica faturamento
 - **VF03:** Visualiza o faturamento
 
+# Tabelas
+
+- **VBRK:** Faturamento – Cabeçalho
+- **VBRP:** Faturamento – Itens
 
 # Para gerar uma Nota fiscal 
 
